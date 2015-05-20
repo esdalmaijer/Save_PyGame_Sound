@@ -2,7 +2,7 @@ Save PyGame Sound as wave file
 ==============================
 
 **TL;DR: Could not find easy way to make sound files out of
-NumPy arrays, so here's an example script.**
+NumPy arrays, so here are example scripts.**
 
 Sometimes I use PyGame's [Surface class](http://pygame.org/docs/ref/surface.html) and [image module](http://pygame.org/docs/ref/image.html) to
 create and save images. This works brilliantly if you need to
