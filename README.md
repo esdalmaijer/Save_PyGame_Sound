@@ -1,4 +1,4 @@
-Save PyGame Sound as wave file
+Save PyGame Sound as .wav file
 ==============================
 
 **TL;DR: Could not find easy way to make sound files out of
@@ -20,7 +20,7 @@ Google search learned that [more](http://stackoverflow.com/questions/17292444/py
 things, but haven't found a working answer yet. This makes
 sense: PyGame was not quite designed to do these things.
 
-A bit more Googling brought up the [`wave`](https://docs.python.org/2/library/wave.html), a native Python
+A bit more Googling brought up [`wave`](https://docs.python.org/2/library/wave.html), a native Python
 module to read and write WAV files. Brilliant stuff! It took
 a bit of fiddling around, but was really easy.
 
